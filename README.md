@@ -1,2 +1,2 @@
-# Development-board
-All kinds of single-chip microcomputer, embedded development board
+# STC89C52RC-trailblazer1Development-board
+一个基于STC89C52RC的单片机入门学习开发板，开发板命名为开拓者1号
